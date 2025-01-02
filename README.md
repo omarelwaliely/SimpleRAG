@@ -27,8 +27,8 @@ The **Simple RAG API** is a minimal backend service that stores a set of documen
 1. Clone the repository:
 
     ```bash
-    git clone
-    cd 
+    git clone SimpleRAG
+    cd SimpleRAG
     ```
 
 2. Install dependencies:
